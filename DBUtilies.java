@@ -1,2 +1,2 @@
-Hi I am form master
+I am from master branch
 Hello
